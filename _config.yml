@@ -1,4 +1,4 @@
 theme: "jekyll-theme-cayman"
 title: "αlpha"
 
-gems: "jekyll-sitemap"
+permalink: pretty
