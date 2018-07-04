@@ -1,5 +1,5 @@
 ---
-title: Welcome! – viaCDN | αlpha
+title: Welcome!
 description: Welcome to viaCDN! This project is in alpha version. Stay tuned to find out more...
 permalink: /en/
 ---
