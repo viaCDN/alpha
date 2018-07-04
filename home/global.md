@@ -4,8 +4,10 @@ description: English – Español – Português
 permalink: /
 ---
 
-## Global
-
-- [English](https://alpha.viacdn.org/en/)
-- [Español](https://alpha.viacdn.org/es/)
-- [Português](https://alpha.viacdn.org/pt/)
+<center>
+<h2>Global</h2>
+<br/>
+  <p>- <a href="https://alpha.viacdn.org/en/">English</a> <br/>- <a href="https://alpha.viacdn.org/es/">Español</a> <br/>- <a href="https://alpha.viacdn.org/pt/">Português</a></p>
+<br/>
+<br/>
+</center>
