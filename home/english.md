@@ -4,7 +4,7 @@ description: Welcome to viaCDN! This project is in alpha version. Stay tuned to 
 permalink: /en/
 ---
 
-## Welcome to viaCDN project!
+## Welcome to viaCDN!
 
 This project is in alpha version.
 
