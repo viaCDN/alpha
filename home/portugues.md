@@ -9,7 +9,7 @@ permalink: /pt/
 <br/>
 <p>Este projeto está em versão alfa. <br/>Fique ligado para saber mais...</p>
 <br/>
-<p><a href="https://twitter.com/viaCDN" target="_blank">@viaCDN</a> <br/>no Twitter</p>
+<p><a href="https://twitter.com/viaCDN" target="_blank">@viaCDN</a> <br/><small>no Twitter</small></p>
 <br/>
 <br/>
 </center>
