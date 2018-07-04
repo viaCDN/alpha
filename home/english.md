@@ -6,6 +6,7 @@ permalink: /en/
 
 <center>
 <h2>Welcome!</h2>
+<br/>
 <p>This project is in alpha version.</p>
 <p>Stay tuned to find out more...</p>
 <br/>
