@@ -1,4 +1,18 @@
-theme: "jekyll-theme-cayman"
-title: "αlpha"
+title:
+  "viaCDN"
+  
+description:
+  "αlpha"
 
-permalink: pretty
+github:
+  "nakedalarmclock"
+
+theme:
+  jekyll-theme-cayman
+
+permalink:
+  pretty
+
+gems:
+  - jekyll-seo-tag
+  - jekyll-sitemap
