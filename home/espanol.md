@@ -4,8 +4,13 @@ description: ¡Bienvenido a viaCDN! Este proyecto está en versión alpha. Mant�
 permalink: /es/
 ---
 
-## ¡Bienvenido a viaCDN!
-
-Este proyecto está en versión alpha.
-
-Manténgase en sintonía para saber más...
+<center>
+<h2>¡Bienvenido!</h2>
+<br/>
+<p>Este proyecto está en versión alpha.</p>
+<p>Manténgase en sintonía para saber más...</p>
+<br/>
+<p><a href="https://twitter.com/viaCDN" target="_blank">@viaCDN</a> <br/>en Twitter</p>
+<br/>
+<br/>
+</center>
