@@ -11,5 +11,4 @@ permalink: /es/
 <br/>
 <p><a href="https://twitter.com/viaCDN" target="_blank">@viaCDN</a> <br/><small>en Twitter</small></p>
 <br/>
-<br/>
 </center>
