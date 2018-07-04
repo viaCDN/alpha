@@ -1,5 +1,5 @@
 ---
-title: viaCDN | αlpha
+title: Global
 description: English – Español – Português
 permalink: /
 ---
