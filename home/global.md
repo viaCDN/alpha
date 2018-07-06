@@ -1,7 +1,7 @@
 ---
 title: Global
 description: English – Español – Português
-permalink: /
+permalink: /old/
 ---
 
 <center>
