@@ -1,3 +1,13 @@
+
+---
+language: en
+permalink: /links/
+layout: default
+title: Links
+description: Links
+sitemap: false
+---
+
 ## Reliability
 
 <dl>
