@@ -1,7 +1,7 @@
 ---
 title: ¡Bienvenido!
 description: ¡Bienvenido a viaCDN! Este proyecto está en versión alpha. Manténgase en sintonía para saber más...
-permalink: /es/
+permalink: /old/es/
 ---
 
 <center>
