@@ -29,7 +29,6 @@ description: Global | Afrikaans, azərbaycan dili, беларуская мова
   <li><a href="https://alpha.viacdn.org/et/">eesti, eesti keel</a></li>
   <li><a href="https://alpha.viacdn.org/eu/">euskara, euskera</a></li>
   <li><a href="https://alpha.viacdn.org/fi/">suomi, suomen kieli</a></li>
-  <li><a href="https://alpha.viacdn.org/fl/">Pilipino</a></li>
   <li><a href="https://alpha.viacdn.org/fr/">français, langue française</a></li>
   <li><a href="https://alpha.viacdn.org/ga/">Gaeilge</a></li>
   <li><a href="https://alpha.viacdn.org/gl/">Galego</a></li>
