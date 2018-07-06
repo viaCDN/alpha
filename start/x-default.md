@@ -39,7 +39,6 @@ description: Global | Afrikaans, azərbaycan dili, беларуская мова
   <li><a href="https://alpha.viacdn.org/hr/">hrvatski jezik</a></li>
   <li><a href="https://alpha.viacdn.org/ht/">Kreyòl ayisyen</a></li>
   <li><a href="https://alpha.viacdn.org/hu/">magyar</a></li>
-  <li><a href="https://alpha.viacdn.org/hy/">Հայերեն</a></li>
   <li><a href="https://alpha.viacdn.org/id/">Bahasa Indonesia</a></li>
   <li><a href="https://alpha.viacdn.org/ig/">Asụsụ Igbo</a></li>
   <li><a href="https://alpha.viacdn.org/is/">Íslenska</a></li>
