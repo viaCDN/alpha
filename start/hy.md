@@ -1,9 +1,9 @@
 ---
 language: hy
 permalink: /hy/
+layout: home
 title: Բարի գալուստ
 description: Բարի գալուստ viaCDN! Սա ծրագիր է, որը վարում է ալֆա տարբերակով: Ցանկանում եք ավելին իմանալ:
-layout: home
 ---
 
 <center>
